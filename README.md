@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Hi, my name is Léo Kakali and I'm currently studying computer science at UALG.
 <!--
 **kakurokan/kakurokan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
