@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, my name is Léo Kakali and I'm currently studying computer science at UALG.
+Hi, my name is Léo Kakali and I'm currently studying computer science at [University of Algarve](https://www.ualg.pt/en)
 <!--
 **kakurokan/kakurokan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
