@@ -1,21 +1,24 @@
-# 💫 About Me:
-Hi, I'm Léo Kakali!<br>I'm currently studying computer science at [University of Algarve](https://www.ualg.pt/en)
+# Léo Souza
 
+Informatics Engineering student at the University of the Algarve (UAlg), graduating in 2027.
+Looking for a **junior Java backend role from July 2027**.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leo-kakali) 
+## Stack
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Kakurokan&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Kakurokan&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kakurokan&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Java** · **Python** · **PostgreSQL** · **Docker** · **GitHub Actions** · C++ · OCaml
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Selected work
 
----
-[![](https://komarev.com/ghpvc/?username=Kakurokan&icon=0&color=0)](https://visitcount.itsvg.in)
+- **[FintList](https://github.com/kakurokan/FintList)**: array-backed doubly linked list for `int` in Java, with slot reuse and last-access caching. Benchmarked against a linked list with doubling-ratio tests. *Course project, built with a partner.*
+- **[Maritime Navigation Simulator](https://github.com/kakurokan/Maritime_Navigation)**: Java/Swing simulator of maritime traffic using Strategy (Dijkstra routing), State and Memento patterns, with unit tests. *Course project.*
+- **[ENEI 2027 platform](https://github.com/Dep-tech-coenei-faro-27/event-site)**: backend contributor on the ticketing platform for the national informatics students' event (FastAPI, SQLAlchemy, PostgreSQL, Alembic, Docker Compose, GitHub Actions). *Team project.*
+- **[Non-linear & hashing data structures](https://github.com/kakurokan/non-linear_and_hashing_data_structures)**: custom tree and multi-level hash table in Java, with empirical complexity analysis. *Course project, team of 3.*
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Also
+
+- Competitive programming with the UAlg team: SWERC 2025, MIUP 2025 and 2026.
+- Languages: Portuguese (native), English (professional).
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/leo-kakali)
