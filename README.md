@@ -2,20 +2,23 @@
 
 # Léo Souza
 
-**Informatics Engineering student @ University of the Algarve (UAlg), graduating in 2027**
-Looking for a **junior Java backend role from July 2027**
+**Software engineer (Java, Python) · Informatics Engineering @ University of the Algarve (17/20), graduating June 2027**
+Looking for a **junior backend role from July 2027** · Based in Faro, Portugal
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-kakurokan.github.io-0F380F?style=for-the-badge&logo=githubpages&logoColor=9BBC0F)](https://kakurokan.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leo-kakali)
+[![Email](https://img.shields.io/badge/Email-leokakali7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leokakali7@gmail.com)
 
 </div>
 
@@ -25,19 +28,30 @@ Looking for a **junior Java backend role from July 2027**
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[FintList](https://github.com/kakurokan/FintList)** | Array-backed doubly linked list for `int` with slot reuse and last-access caching, benchmarked against a linked list with doubling-ratio tests. *Course project, built with a partner.* | Java, Maven, JUnit 5 |
-| **[Maritime Navigation Simulator](https://github.com/kakurokan/Maritime_Navigation)** | Desktop simulator of maritime traffic using Strategy (Dijkstra routing), State and Memento patterns, with unit tests and CI. *Course project.* | Java, Swing, Maven, JUnit 5 |
-| **[ENEI 2027 platform](https://github.com/Dep-tech-coenei-faro-27/event-site)** | Backend contributor on the ticketing platform for the national informatics students' event, hosted in Faro. *Team project.* | Python, FastAPI, PostgreSQL, Alembic, Docker, GitHub Actions |
-| **[Non-linear & hashing data structures](https://github.com/kakurokan/non-linear_and_hashing_data_structures)** | Custom tree and multi-level hash table with empirical complexity analysis. *Course project, team of 3.* | Java, Maven |
+| **[ENEI 2027 platform](https://github.com/Dep-tech-coenei-faro-27/event-site)** | Backend of the website and ticketing API for the National Gathering of Informatics Students, coming to Faro ([eneifaro.pt](https://www.eneifaro.pt/)). Built JWT auth, password recovery and an admin CLI, plus an HMAC-signed, PII-free ticket QR. **12 PRs merged · 13 reviewed · 500+ test suite · 4 Alembic migrations.** *Volunteer, team project.* | Python, FastAPI, SQLAlchemy 2, PostgreSQL, Alembic, Docker Compose, GitHub Actions |
+| **[FintList](https://github.com/kakurokan/FintList)** | Doubly linked list for `int` in three parallel arrays instead of node objects, with slot reuse and last-access caching. **~8× faster `addAt`/`removeAt`** than the course's linked list at ~10M elements; both are O(n), so the gain comes from smaller constant factors. *Built with a classmate.* | Java, Maven, JUnit 5, GitHub Actions |
+| **[Maritime Navigation Simulator](https://github.com/kakurokan/Maritime_Navigation)** | Discrete-time maritime traffic simulator with a Swing GUI, built test-first. Dijkstra routing on an obstacle-free graph and collision avoidance between ships, using the Strategy, State, Mediator, Iterator and Command patterns. *Team of 3.* | Java, Swing, Maven, JUnit 5, GitHub Actions |
+| **[Hash table & tree library](https://github.com/kakurokan/non-linear_and_hashing_data_structures)** | Weight-balanced tree (max/min depth ratio **1.31** after 100k sorted insertions) and a multi-level hash table with double hashing (**1.0 comparisons per hit** across 10M keys). *Course project.* | Java 17, Maven, JUnit 5 |
+
+More: [DNS client from scratch](https://github.com/kakurokan/DNSClient) (Python, UDP sockets) · [PuzzleAI Collection](https://github.com/kakurokan/PuzzleAI-Collection) (Ball Sort solver, Best-First search) · [BookSwipe](https://github.com/kakurokan/BookSwipe) (Spring Boot)
 
 ## 🏁 Competitive programming
 
-Representing UAlg in SWERC 2025, MIUP 2025 and MIUP 2026 (C++ and Java).
-Team notebook: [SwercNotebookUALG](https://github.com/kakurokan/SwercNotebookUALG).
+Representing UAlg at ICPC contests in C++ and Java:
+
+- **MIUP 2026 (Évora):** 4 problems solved, 13th of 20 teams. At MIUP 2025 (Aveiro) we solved 0.
+- **SWERC 2025 (Lisbon):** ICPC Southwestern Europe regional.
+- Team notebook: [SwercNotebookUALG](https://github.com/kakurokan/SwercNotebookUALG)
+
+## 🎓 Education & research
+
+- **BSc Informatics Engineering, UAlg** (Sep 2024 – Jun 2027), with an overall grade of 17/20. Algorithms & Data Structures 20/20 · OOP 20/20 · Software Engineering 18/20.
+- **SOUAlg2.0** Academic Merit & Success Scholarship.
+- **GT TRUST-Lab** research member, working with OCaml and arbitrary-precision arithmetic. Research grant from January 2027.
 
 ## 🌍 Languages
 
-Portuguese (native) · English (professional)
+Portuguese (native) · English (professional) · Spanish (basic)
 
 ---
 
