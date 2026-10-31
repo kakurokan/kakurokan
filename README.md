@@ -38,3 +38,13 @@ Team notebook: [SwercNotebookUALG](https://github.com/kakurokan/SwercNotebookUAL
 ## 🌍 Languages
 
 Portuguese (native) · English (professional)
+
+---
+
+<div align="center">
+
+<img src="koi/koi.gif" width="256" alt="My koi, redrawn every night from my GitHub activity" />
+
+<sub>Drawn nightly by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a> from my public activity</sub>
+
+</div>
